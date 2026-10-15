@@ -13,7 +13,7 @@ Para este proyecto (cuando esté actualizado a UE5, me temo) hace falta descarga
 * Geometry
 * LevelPrototyping
 * Mannequin
-* StarterContent
+* StarterContent (¡de verdad, lo estoy usando aunque es el de hace varias versiones de Unreal!)
 * ThirdPerson
 * ThirdPersonBP
 
